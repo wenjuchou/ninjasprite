@@ -1,4 +1,4 @@
-# Sprites
+# NinjaSprite
 One sprite movement
 
-https://madonnamurphy.github.io/Sprites/
+https://wenjuchou.github.io/ninjasprite/
